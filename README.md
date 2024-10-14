@@ -1,1 +1,1 @@
-# .github
+# Proekt'ы SUI
